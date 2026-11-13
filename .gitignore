@@ -1,0 +1,20 @@
+# Compiled output
+*.class
+bin/
+out/
+
+# IDE / OS
+.vscode/
+.idea/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
+
+# Never commit secrets
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
