@@ -1,0 +1,14 @@
+ProtoIndoEuropean:Germanic,Italic,Hellenic,Celtic,BaltoSlavic,IndoIranian
+Germanic:WestGermanic,NorthGermanic
+WestGermanic:English,German,Dutch
+NorthGermanic:Swedish,Norwegian,Danish,Icelandic
+Italic:Latin
+Latin:Spanish,Portuguese,French,Italian,Romanian
+Hellenic:Greek
+Celtic:Irish,Welsh,Breton
+BaltoSlavic:Baltic,Slavic
+Baltic:Lithuanian,Latvian
+Slavic:Russian,Ukrainian,Polish,Czech
+IndoIranian:Indic,Iranian
+Indic:Hindi,Bengali,Punjabi,Marathi
+Iranian:Persian,Kurdish,Pashto
